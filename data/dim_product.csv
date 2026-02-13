@@ -1,0 +1,21 @@
+product_key,product_name,category,unit_price,launch_date,patent_status
+1,Drug_A,Pain Management,322.81,2020-01-01,Active
+2,Drug_B,Antibiotics,394.16,2020-03-01,Active
+3,Drug_C,Cardiovascular,128.68,2020-04-30,Active
+4,Drug_D,Oncology,276.15,2020-06-29,Active
+5,Drug_E,Pain Management,229.4,2020-08-28,Expiring Soon
+6,Drug_F,Diabetes,115.87,2020-10-27,Active
+7,Drug_G,Pain Management,215.39,2020-12-26,Active
+8,Drug_H,Diabetes,80.68,2021-02-24,Expiring Soon
+9,Drug_I,Pain Management,61.62,2021-04-25,Active
+10,Drug_J,Diabetes,110.82,2021-06-24,Active
+11,Drug_K,Antibiotics,483.4,2021-08-23,Expiring Soon
+12,Drug_L,Diabetes,297.29,2021-10-22,Active
+13,Drug_M,Diabetes,484.62,2021-12-21,Active
+14,Drug_N,Cardiovascular,244.62,2022-02-19,Active
+15,Drug_O,Diabetes,190.32,2022-04-20,Active
+16,Drug_P,Cardiovascular,277.76,2022-06-19,Active
+17,Drug_Q,Oncology,247.78,2022-08-18,Active
+18,Drug_R,Cardiovascular,97.55,2022-10-17,Active
+19,Drug_S,Antibiotics,338.37,2022-12-16,Active
+20,Drug_T,Cardiovascular,147.22,2023-02-14,Expiring Soon

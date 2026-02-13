@@ -1,0 +1,501 @@
+doctor_key,doctor_name,specialty,hospital,city,prescription_volume
+1,Dr_1,Neurology,Hospital_31,City_62,High
+2,Dr_2,Cardiology,Hospital_5,City_32,Medium
+3,Dr_3,General Practice,Hospital_38,City_30,High
+4,Dr_4,Cardiology,Hospital_3,City_29,Low
+5,Dr_5,Cardiology,Hospital_23,City_49,High
+6,Dr_6,Neurology,Hospital_37,City_45,High
+7,Dr_7,Cardiology,Hospital_37,City_93,High
+8,Dr_8,Oncology,Hospital_10,City_30,Medium
+9,Dr_9,Oncology,Hospital_10,City_16,Low
+10,Dr_10,Endocrinology,Hospital_19,City_40,Medium
+11,Dr_11,General Practice,Hospital_17,City_19,High
+12,Dr_12,Cardiology,Hospital_21,City_18,Medium
+13,Dr_13,Cardiology,Hospital_14,City_1,Medium
+14,Dr_14,Neurology,Hospital_9,City_78,High
+15,Dr_15,Oncology,Hospital_46,City_47,Medium
+16,Dr_16,General Practice,Hospital_1,City_66,Low
+17,Dr_17,Endocrinology,Hospital_45,City_92,High
+18,Dr_18,Oncology,Hospital_13,City_94,Medium
+19,Dr_19,Endocrinology,Hospital_4,City_38,Medium
+20,Dr_20,Neurology,Hospital_1,City_51,Medium
+21,Dr_21,Neurology,Hospital_49,City_63,High
+22,Dr_22,Cardiology,Hospital_40,City_4,High
+23,Dr_23,General Practice,Hospital_32,City_1,Low
+24,Dr_24,Endocrinology,Hospital_34,City_8,Low
+25,Dr_25,Oncology,Hospital_28,City_29,Medium
+26,Dr_26,Neurology,Hospital_31,City_55,Medium
+27,Dr_27,Cardiology,Hospital_8,City_3,Medium
+28,Dr_28,Cardiology,Hospital_39,City_32,Medium
+29,Dr_29,Endocrinology,Hospital_26,City_10,Medium
+30,Dr_30,Neurology,Hospital_34,City_74,High
+31,Dr_31,General Practice,Hospital_3,City_83,Low
+32,Dr_32,Neurology,Hospital_50,City_34,Medium
+33,Dr_33,Endocrinology,Hospital_12,City_97,Low
+34,Dr_34,Endocrinology,Hospital_1,City_87,High
+35,Dr_35,Neurology,Hospital_44,City_55,High
+36,Dr_36,Endocrinology,Hospital_5,City_92,High
+37,Dr_37,Neurology,Hospital_30,City_32,Medium
+38,Dr_38,Oncology,Hospital_30,City_50,Low
+39,Dr_39,Neurology,Hospital_17,City_7,High
+40,Dr_40,Neurology,Hospital_48,City_93,Low
+41,Dr_41,Endocrinology,Hospital_47,City_8,Medium
+42,Dr_42,Endocrinology,Hospital_23,City_65,Low
+43,Dr_43,Cardiology,Hospital_15,City_57,High
+44,Dr_44,Cardiology,Hospital_37,City_67,Low
+45,Dr_45,Oncology,Hospital_21,City_88,Medium
+46,Dr_46,Cardiology,Hospital_14,City_87,High
+47,Dr_47,Neurology,Hospital_2,City_59,High
+48,Dr_48,Endocrinology,Hospital_11,City_72,Low
+49,Dr_49,Cardiology,Hospital_39,City_54,Low
+50,Dr_50,Cardiology,Hospital_38,City_67,High
+51,Dr_51,Oncology,Hospital_34,City_51,Medium
+52,Dr_52,Oncology,Hospital_38,City_97,Low
+53,Dr_53,Neurology,Hospital_50,City_92,Low
+54,Dr_54,Endocrinology,Hospital_34,City_8,Low
+55,Dr_55,Oncology,Hospital_18,City_34,Medium
+56,Dr_56,Cardiology,Hospital_30,City_35,Medium
+57,Dr_57,Endocrinology,Hospital_15,City_96,Medium
+58,Dr_58,Endocrinology,Hospital_27,City_88,Medium
+59,Dr_59,Cardiology,Hospital_34,City_78,Medium
+60,Dr_60,Oncology,Hospital_38,City_32,Medium
+61,Dr_61,Cardiology,Hospital_33,City_46,High
+62,Dr_62,Endocrinology,Hospital_24,City_16,Low
+63,Dr_63,General Practice,Hospital_15,City_68,Medium
+64,Dr_64,General Practice,Hospital_30,City_37,Medium
+65,Dr_65,Neurology,Hospital_42,City_54,Medium
+66,Dr_66,Cardiology,Hospital_17,City_85,Medium
+67,Dr_67,Cardiology,Hospital_5,City_14,High
+68,Dr_68,Neurology,Hospital_29,City_95,High
+69,Dr_69,Neurology,Hospital_4,City_55,High
+70,Dr_70,Neurology,Hospital_10,City_48,High
+71,Dr_71,Endocrinology,Hospital_17,City_82,Medium
+72,Dr_72,Cardiology,Hospital_10,City_7,Medium
+73,Dr_73,Endocrinology,Hospital_17,City_74,High
+74,Dr_74,Neurology,Hospital_20,City_7,Medium
+75,Dr_75,Cardiology,Hospital_24,City_33,High
+76,Dr_76,Endocrinology,Hospital_5,City_23,Low
+77,Dr_77,Endocrinology,Hospital_34,City_85,Low
+78,Dr_78,Neurology,Hospital_6,City_19,High
+79,Dr_79,Cardiology,Hospital_2,City_19,Medium
+80,Dr_80,Neurology,Hospital_13,City_36,High
+81,Dr_81,Cardiology,Hospital_43,City_29,Medium
+82,Dr_82,General Practice,Hospital_43,City_60,Medium
+83,Dr_83,Oncology,Hospital_48,City_82,High
+84,Dr_84,Oncology,Hospital_11,City_2,Medium
+85,Dr_85,Oncology,Hospital_47,City_1,High
+86,Dr_86,Neurology,Hospital_23,City_47,High
+87,Dr_87,General Practice,Hospital_16,City_69,Medium
+88,Dr_88,Cardiology,Hospital_31,City_20,Medium
+89,Dr_89,Endocrinology,Hospital_11,City_11,Medium
+90,Dr_90,Cardiology,Hospital_16,City_2,Medium
+91,Dr_91,Endocrinology,Hospital_8,City_67,Low
+92,Dr_92,Cardiology,Hospital_4,City_87,High
+93,Dr_93,General Practice,Hospital_40,City_12,Medium
+94,Dr_94,Endocrinology,Hospital_4,City_20,Medium
+95,Dr_95,Neurology,Hospital_25,City_5,Medium
+96,Dr_96,Cardiology,Hospital_3,City_37,Low
+97,Dr_97,Cardiology,Hospital_32,City_38,Medium
+98,Dr_98,Endocrinology,Hospital_3,City_94,Medium
+99,Dr_99,Neurology,Hospital_27,City_9,Medium
+100,Dr_100,Neurology,Hospital_29,City_98,Low
+101,Dr_101,General Practice,Hospital_32,City_53,Low
+102,Dr_102,Neurology,Hospital_50,City_44,Medium
+103,Dr_103,Neurology,Hospital_19,City_99,Medium
+104,Dr_104,Neurology,Hospital_21,City_86,High
+105,Dr_105,Oncology,Hospital_5,City_24,High
+106,Dr_106,General Practice,Hospital_18,City_81,Medium
+107,Dr_107,Cardiology,Hospital_28,City_74,High
+108,Dr_108,Endocrinology,Hospital_42,City_30,Medium
+109,Dr_109,Cardiology,Hospital_22,City_59,High
+110,Dr_110,General Practice,Hospital_21,City_87,Medium
+111,Dr_111,Endocrinology,Hospital_6,City_96,Medium
+112,Dr_112,General Practice,Hospital_1,City_81,Low
+113,Dr_113,Neurology,Hospital_5,City_81,High
+114,Dr_114,Endocrinology,Hospital_41,City_14,Medium
+115,Dr_115,Neurology,Hospital_12,City_9,Low
+116,Dr_116,Cardiology,Hospital_26,City_40,High
+117,Dr_117,Cardiology,Hospital_46,City_66,Low
+118,Dr_118,Endocrinology,Hospital_34,City_25,Medium
+119,Dr_119,Endocrinology,Hospital_49,City_73,Medium
+120,Dr_120,General Practice,Hospital_14,City_22,Low
+121,Dr_121,General Practice,Hospital_26,City_4,High
+122,Dr_122,Neurology,Hospital_45,City_26,Medium
+123,Dr_123,Endocrinology,Hospital_27,City_58,Low
+124,Dr_124,Cardiology,Hospital_9,City_29,High
+125,Dr_125,General Practice,Hospital_26,City_98,Medium
+126,Dr_126,General Practice,Hospital_47,City_87,Low
+127,Dr_127,Cardiology,Hospital_22,City_37,High
+128,Dr_128,General Practice,Hospital_47,City_75,Low
+129,Dr_129,Neurology,Hospital_30,City_70,Medium
+130,Dr_130,Endocrinology,Hospital_43,City_18,Medium
+131,Dr_131,Cardiology,Hospital_48,City_85,Medium
+132,Dr_132,Endocrinology,Hospital_17,City_42,High
+133,Dr_133,General Practice,Hospital_26,City_100,Low
+134,Dr_134,General Practice,Hospital_36,City_41,Low
+135,Dr_135,Cardiology,Hospital_1,City_38,Medium
+136,Dr_136,Neurology,Hospital_8,City_34,Medium
+137,Dr_137,Oncology,Hospital_49,City_17,Medium
+138,Dr_138,Cardiology,Hospital_35,City_37,Medium
+139,Dr_139,Oncology,Hospital_15,City_25,Medium
+140,Dr_140,Oncology,Hospital_47,City_76,Medium
+141,Dr_141,Neurology,Hospital_22,City_87,Medium
+142,Dr_142,Oncology,Hospital_14,City_86,Medium
+143,Dr_143,Oncology,Hospital_26,City_85,Medium
+144,Dr_144,Neurology,Hospital_28,City_27,High
+145,Dr_145,Oncology,Hospital_23,City_57,High
+146,Dr_146,Oncology,Hospital_14,City_31,Medium
+147,Dr_147,Oncology,Hospital_24,City_6,Medium
+148,Dr_148,Cardiology,Hospital_2,City_91,Medium
+149,Dr_149,Cardiology,Hospital_45,City_40,Medium
+150,Dr_150,Cardiology,Hospital_26,City_98,Medium
+151,Dr_151,Neurology,Hospital_14,City_12,Medium
+152,Dr_152,General Practice,Hospital_7,City_53,Medium
+153,Dr_153,Oncology,Hospital_3,City_71,Medium
+154,Dr_154,Oncology,Hospital_47,City_10,Medium
+155,Dr_155,Neurology,Hospital_23,City_45,Low
+156,Dr_156,Oncology,Hospital_46,City_17,Medium
+157,Dr_157,Cardiology,Hospital_43,City_26,High
+158,Dr_158,General Practice,Hospital_47,City_85,High
+159,Dr_159,Endocrinology,Hospital_45,City_92,High
+160,Dr_160,Oncology,Hospital_18,City_62,Medium
+161,Dr_161,Cardiology,Hospital_38,City_46,Medium
+162,Dr_162,Endocrinology,Hospital_35,City_64,Medium
+163,Dr_163,General Practice,Hospital_15,City_2,Medium
+164,Dr_164,Endocrinology,Hospital_25,City_54,High
+165,Dr_165,Cardiology,Hospital_37,City_65,Medium
+166,Dr_166,Endocrinology,Hospital_28,City_51,High
+167,Dr_167,Neurology,Hospital_10,City_53,Medium
+168,Dr_168,Endocrinology,Hospital_39,City_36,High
+169,Dr_169,Oncology,Hospital_17,City_26,Low
+170,Dr_170,Oncology,Hospital_39,City_29,High
+171,Dr_171,Neurology,Hospital_22,City_21,Low
+172,Dr_172,Cardiology,Hospital_26,City_11,Medium
+173,Dr_173,Oncology,Hospital_44,City_40,Low
+174,Dr_174,General Practice,Hospital_25,City_11,Medium
+175,Dr_175,Oncology,Hospital_17,City_36,Medium
+176,Dr_176,Oncology,Hospital_13,City_59,Medium
+177,Dr_177,Cardiology,Hospital_20,City_39,Medium
+178,Dr_178,Endocrinology,Hospital_25,City_99,Medium
+179,Dr_179,Oncology,Hospital_4,City_54,Medium
+180,Dr_180,Neurology,Hospital_10,City_98,Medium
+181,Dr_181,Endocrinology,Hospital_3,City_55,High
+182,Dr_182,General Practice,Hospital_41,City_24,Medium
+183,Dr_183,Cardiology,Hospital_45,City_22,Medium
+184,Dr_184,General Practice,Hospital_18,City_69,Medium
+185,Dr_185,Endocrinology,Hospital_47,City_56,Medium
+186,Dr_186,Endocrinology,Hospital_36,City_33,Medium
+187,Dr_187,Endocrinology,Hospital_47,City_36,Low
+188,Dr_188,General Practice,Hospital_22,City_20,High
+189,Dr_189,Endocrinology,Hospital_34,City_83,Medium
+190,Dr_190,General Practice,Hospital_47,City_99,Medium
+191,Dr_191,Endocrinology,Hospital_8,City_81,Medium
+192,Dr_192,Neurology,Hospital_40,City_62,Low
+193,Dr_193,Endocrinology,Hospital_49,City_98,High
+194,Dr_194,General Practice,Hospital_44,City_73,Medium
+195,Dr_195,Oncology,Hospital_19,City_26,Medium
+196,Dr_196,Endocrinology,Hospital_42,City_66,Medium
+197,Dr_197,Oncology,Hospital_41,City_73,Medium
+198,Dr_198,Neurology,Hospital_37,City_73,Medium
+199,Dr_199,Cardiology,Hospital_6,City_40,Medium
+200,Dr_200,Neurology,Hospital_26,City_17,Medium
+201,Dr_201,Endocrinology,Hospital_34,City_1,High
+202,Dr_202,Oncology,Hospital_45,City_89,Medium
+203,Dr_203,Oncology,Hospital_6,City_61,High
+204,Dr_204,General Practice,Hospital_37,City_43,Medium
+205,Dr_205,Oncology,Hospital_33,City_42,Medium
+206,Dr_206,General Practice,Hospital_22,City_25,Medium
+207,Dr_207,Cardiology,Hospital_21,City_39,Medium
+208,Dr_208,Endocrinology,Hospital_6,City_35,High
+209,Dr_209,General Practice,Hospital_6,City_3,Medium
+210,Dr_210,Cardiology,Hospital_48,City_44,Medium
+211,Dr_211,Oncology,Hospital_4,City_51,Medium
+212,Dr_212,Oncology,Hospital_30,City_94,Low
+213,Dr_213,Cardiology,Hospital_11,City_98,High
+214,Dr_214,Oncology,Hospital_30,City_12,Medium
+215,Dr_215,Cardiology,Hospital_31,City_19,Medium
+216,Dr_216,General Practice,Hospital_24,City_44,Medium
+217,Dr_217,General Practice,Hospital_9,City_59,High
+218,Dr_218,Cardiology,Hospital_3,City_49,High
+219,Dr_219,General Practice,Hospital_31,City_61,Low
+220,Dr_220,General Practice,Hospital_40,City_17,Medium
+221,Dr_221,General Practice,Hospital_37,City_74,Medium
+222,Dr_222,Neurology,Hospital_36,City_57,Medium
+223,Dr_223,Endocrinology,Hospital_24,City_55,Medium
+224,Dr_224,Oncology,Hospital_31,City_47,High
+225,Dr_225,Neurology,Hospital_6,City_12,Medium
+226,Dr_226,General Practice,Hospital_2,City_62,Medium
+227,Dr_227,Cardiology,Hospital_20,City_80,Low
+228,Dr_228,General Practice,Hospital_28,City_88,High
+229,Dr_229,Endocrinology,Hospital_11,City_83,Medium
+230,Dr_230,General Practice,Hospital_4,City_8,Medium
+231,Dr_231,Cardiology,Hospital_15,City_95,Medium
+232,Dr_232,Endocrinology,Hospital_6,City_21,Medium
+233,Dr_233,General Practice,Hospital_49,City_81,Medium
+234,Dr_234,Endocrinology,Hospital_30,City_87,Medium
+235,Dr_235,Oncology,Hospital_38,City_80,Medium
+236,Dr_236,Oncology,Hospital_2,City_70,Medium
+237,Dr_237,General Practice,Hospital_15,City_72,Low
+238,Dr_238,Endocrinology,Hospital_11,City_25,Medium
+239,Dr_239,Cardiology,Hospital_8,City_82,Medium
+240,Dr_240,General Practice,Hospital_26,City_89,High
+241,Dr_241,Oncology,Hospital_45,City_12,Low
+242,Dr_242,Oncology,Hospital_44,City_15,High
+243,Dr_243,General Practice,Hospital_5,City_59,High
+244,Dr_244,Endocrinology,Hospital_6,City_26,High
+245,Dr_245,Oncology,Hospital_26,City_26,Medium
+246,Dr_246,Endocrinology,Hospital_4,City_47,High
+247,Dr_247,Oncology,Hospital_19,City_32,High
+248,Dr_248,Oncology,Hospital_20,City_10,High
+249,Dr_249,Neurology,Hospital_33,City_16,High
+250,Dr_250,Oncology,Hospital_20,City_71,Medium
+251,Dr_251,Cardiology,Hospital_49,City_17,Medium
+252,Dr_252,General Practice,Hospital_12,City_23,Medium
+253,Dr_253,General Practice,Hospital_47,City_26,Medium
+254,Dr_254,Endocrinology,Hospital_1,City_85,Medium
+255,Dr_255,Oncology,Hospital_26,City_86,High
+256,Dr_256,Cardiology,Hospital_14,City_7,Medium
+257,Dr_257,Endocrinology,Hospital_38,City_14,Low
+258,Dr_258,Neurology,Hospital_37,City_79,Medium
+259,Dr_259,Endocrinology,Hospital_11,City_7,High
+260,Dr_260,Endocrinology,Hospital_36,City_9,Medium
+261,Dr_261,Oncology,Hospital_13,City_48,Medium
+262,Dr_262,Neurology,Hospital_43,City_72,Medium
+263,Dr_263,Endocrinology,Hospital_3,City_59,High
+264,Dr_264,Cardiology,Hospital_33,City_87,High
+265,Dr_265,Cardiology,Hospital_6,City_93,High
+266,Dr_266,General Practice,Hospital_50,City_82,Low
+267,Dr_267,Neurology,Hospital_10,City_95,Medium
+268,Dr_268,Neurology,Hospital_5,City_94,High
+269,Dr_269,General Practice,Hospital_23,City_39,High
+270,Dr_270,Endocrinology,Hospital_10,City_99,Medium
+271,Dr_271,Neurology,Hospital_44,City_18,High
+272,Dr_272,Cardiology,Hospital_2,City_59,High
+273,Dr_273,Cardiology,Hospital_13,City_17,Low
+274,Dr_274,Oncology,Hospital_40,City_14,High
+275,Dr_275,Neurology,Hospital_2,City_31,Medium
+276,Dr_276,Endocrinology,Hospital_20,City_24,Low
+277,Dr_277,General Practice,Hospital_1,City_99,Medium
+278,Dr_278,General Practice,Hospital_37,City_60,High
+279,Dr_279,Endocrinology,Hospital_9,City_45,High
+280,Dr_280,Oncology,Hospital_17,City_98,Low
+281,Dr_281,General Practice,Hospital_9,City_3,Low
+282,Dr_282,Neurology,Hospital_11,City_37,Medium
+283,Dr_283,Oncology,Hospital_15,City_43,High
+284,Dr_284,Neurology,Hospital_24,City_40,Medium
+285,Dr_285,Cardiology,Hospital_38,City_90,Low
+286,Dr_286,Oncology,Hospital_35,City_55,Medium
+287,Dr_287,General Practice,Hospital_30,City_87,Low
+288,Dr_288,Oncology,Hospital_31,City_39,Low
+289,Dr_289,Oncology,Hospital_49,City_15,Medium
+290,Dr_290,Oncology,Hospital_5,City_4,Medium
+291,Dr_291,Oncology,Hospital_44,City_93,Medium
+292,Dr_292,Neurology,Hospital_50,City_86,High
+293,Dr_293,Cardiology,Hospital_14,City_25,Medium
+294,Dr_294,Endocrinology,Hospital_11,City_13,Medium
+295,Dr_295,Oncology,Hospital_9,City_82,Low
+296,Dr_296,General Practice,Hospital_34,City_33,Low
+297,Dr_297,Oncology,Hospital_12,City_16,Medium
+298,Dr_298,General Practice,Hospital_35,City_42,High
+299,Dr_299,Neurology,Hospital_35,City_66,High
+300,Dr_300,General Practice,Hospital_1,City_55,High
+301,Dr_301,Endocrinology,Hospital_40,City_99,Medium
+302,Dr_302,Cardiology,Hospital_22,City_42,Medium
+303,Dr_303,General Practice,Hospital_29,City_34,Low
+304,Dr_304,General Practice,Hospital_8,City_30,Medium
+305,Dr_305,Cardiology,Hospital_11,City_13,Low
+306,Dr_306,Endocrinology,Hospital_41,City_13,Low
+307,Dr_307,Oncology,Hospital_37,City_18,Medium
+308,Dr_308,General Practice,Hospital_14,City_32,Low
+309,Dr_309,Cardiology,Hospital_30,City_96,Medium
+310,Dr_310,Neurology,Hospital_35,City_99,High
+311,Dr_311,Cardiology,Hospital_21,City_39,Medium
+312,Dr_312,Neurology,Hospital_37,City_46,Medium
+313,Dr_313,Endocrinology,Hospital_5,City_29,Medium
+314,Dr_314,Oncology,Hospital_19,City_62,Medium
+315,Dr_315,Cardiology,Hospital_14,City_93,Medium
+316,Dr_316,General Practice,Hospital_26,City_62,Medium
+317,Dr_317,Endocrinology,Hospital_4,City_57,Medium
+318,Dr_318,Cardiology,Hospital_25,City_16,Medium
+319,Dr_319,General Practice,Hospital_45,City_56,Medium
+320,Dr_320,Cardiology,Hospital_42,City_10,Medium
+321,Dr_321,Neurology,Hospital_25,City_30,High
+322,Dr_322,Cardiology,Hospital_18,City_25,Medium
+323,Dr_323,Cardiology,Hospital_40,City_84,High
+324,Dr_324,Cardiology,Hospital_8,City_5,Medium
+325,Dr_325,Endocrinology,Hospital_39,City_65,Medium
+326,Dr_326,Cardiology,Hospital_40,City_94,Medium
+327,Dr_327,General Practice,Hospital_14,City_49,Medium
+328,Dr_328,Neurology,Hospital_32,City_3,Low
+329,Dr_329,Neurology,Hospital_38,City_45,Low
+330,Dr_330,Cardiology,Hospital_33,City_14,Low
+331,Dr_331,Endocrinology,Hospital_23,City_30,Low
+332,Dr_332,Endocrinology,Hospital_15,City_68,High
+333,Dr_333,General Practice,Hospital_33,City_18,High
+334,Dr_334,Cardiology,Hospital_25,City_62,Medium
+335,Dr_335,Neurology,Hospital_17,City_37,High
+336,Dr_336,Endocrinology,Hospital_33,City_25,Medium
+337,Dr_337,Cardiology,Hospital_47,City_48,Medium
+338,Dr_338,Endocrinology,Hospital_2,City_65,Medium
+339,Dr_339,Endocrinology,Hospital_14,City_53,Medium
+340,Dr_340,Neurology,Hospital_40,City_79,Medium
+341,Dr_341,Oncology,Hospital_40,City_73,Medium
+342,Dr_342,General Practice,Hospital_39,City_15,Low
+343,Dr_343,General Practice,Hospital_6,City_49,Medium
+344,Dr_344,Neurology,Hospital_6,City_88,Low
+345,Dr_345,Endocrinology,Hospital_3,City_68,High
+346,Dr_346,Cardiology,Hospital_7,City_12,Low
+347,Dr_347,Endocrinology,Hospital_8,City_59,Medium
+348,Dr_348,Neurology,Hospital_42,City_37,Medium
+349,Dr_349,General Practice,Hospital_15,City_61,High
+350,Dr_350,Endocrinology,Hospital_47,City_43,Medium
+351,Dr_351,General Practice,Hospital_29,City_70,High
+352,Dr_352,Cardiology,Hospital_33,City_39,High
+353,Dr_353,General Practice,Hospital_30,City_56,Medium
+354,Dr_354,General Practice,Hospital_39,City_63,Medium
+355,Dr_355,Oncology,Hospital_27,City_46,Medium
+356,Dr_356,Oncology,Hospital_36,City_88,Low
+357,Dr_357,Oncology,Hospital_29,City_11,Medium
+358,Dr_358,General Practice,Hospital_38,City_62,Medium
+359,Dr_359,Neurology,Hospital_33,City_77,High
+360,Dr_360,General Practice,Hospital_37,City_98,Medium
+361,Dr_361,Neurology,Hospital_27,City_25,Medium
+362,Dr_362,Neurology,Hospital_33,City_71,Low
+363,Dr_363,Oncology,Hospital_4,City_52,Low
+364,Dr_364,Endocrinology,Hospital_22,City_4,Medium
+365,Dr_365,Cardiology,Hospital_2,City_59,High
+366,Dr_366,Oncology,Hospital_10,City_72,Low
+367,Dr_367,Oncology,Hospital_5,City_20,Medium
+368,Dr_368,Endocrinology,Hospital_10,City_93,High
+369,Dr_369,Cardiology,Hospital_33,City_63,High
+370,Dr_370,General Practice,Hospital_38,City_54,Medium
+371,Dr_371,General Practice,Hospital_13,City_74,High
+372,Dr_372,Oncology,Hospital_31,City_98,Low
+373,Dr_373,Cardiology,Hospital_47,City_57,Medium
+374,Dr_374,Oncology,Hospital_36,City_90,High
+375,Dr_375,Neurology,Hospital_45,City_41,Low
+376,Dr_376,Oncology,Hospital_24,City_3,Medium
+377,Dr_377,Oncology,Hospital_15,City_6,Medium
+378,Dr_378,General Practice,Hospital_29,City_5,High
+379,Dr_379,General Practice,Hospital_8,City_5,High
+380,Dr_380,General Practice,Hospital_5,City_54,Medium
+381,Dr_381,Neurology,Hospital_29,City_47,Medium
+382,Dr_382,General Practice,Hospital_47,City_87,Medium
+383,Dr_383,Cardiology,Hospital_4,City_49,Medium
+384,Dr_384,Endocrinology,Hospital_12,City_9,Medium
+385,Dr_385,Cardiology,Hospital_45,City_99,High
+386,Dr_386,Cardiology,Hospital_2,City_20,Medium
+387,Dr_387,General Practice,Hospital_27,City_61,Low
+388,Dr_388,Endocrinology,Hospital_31,City_35,Medium
+389,Dr_389,Endocrinology,Hospital_36,City_50,Medium
+390,Dr_390,Endocrinology,Hospital_36,City_82,High
+391,Dr_391,Neurology,Hospital_26,City_62,Medium
+392,Dr_392,General Practice,Hospital_43,City_17,Medium
+393,Dr_393,Endocrinology,Hospital_27,City_88,Low
+394,Dr_394,Neurology,Hospital_5,City_3,Medium
+395,Dr_395,Oncology,Hospital_20,City_32,Low
+396,Dr_396,Oncology,Hospital_11,City_99,Medium
+397,Dr_397,Neurology,Hospital_10,City_13,High
+398,Dr_398,Neurology,Hospital_40,City_89,Medium
+399,Dr_399,General Practice,Hospital_38,City_73,High
+400,Dr_400,General Practice,Hospital_6,City_68,High
+401,Dr_401,Oncology,Hospital_8,City_14,Low
+402,Dr_402,Endocrinology,Hospital_23,City_98,Medium
+403,Dr_403,Oncology,Hospital_47,City_11,Medium
+404,Dr_404,Endocrinology,Hospital_26,City_56,High
+405,Dr_405,Endocrinology,Hospital_46,City_67,Medium
+406,Dr_406,General Practice,Hospital_43,City_92,High
+407,Dr_407,Cardiology,Hospital_12,City_29,High
+408,Dr_408,Cardiology,Hospital_26,City_9,Medium
+409,Dr_409,Neurology,Hospital_13,City_67,High
+410,Dr_410,General Practice,Hospital_40,City_25,Medium
+411,Dr_411,Endocrinology,Hospital_18,City_98,High
+412,Dr_412,Cardiology,Hospital_25,City_76,High
+413,Dr_413,Endocrinology,Hospital_33,City_42,High
+414,Dr_414,Cardiology,Hospital_47,City_9,Medium
+415,Dr_415,Cardiology,Hospital_40,City_79,Medium
+416,Dr_416,Cardiology,Hospital_43,City_40,Medium
+417,Dr_417,General Practice,Hospital_12,City_25,Medium
+418,Dr_418,Oncology,Hospital_44,City_5,Medium
+419,Dr_419,Endocrinology,Hospital_36,City_11,High
+420,Dr_420,General Practice,Hospital_48,City_59,Medium
+421,Dr_421,General Practice,Hospital_4,City_98,Low
+422,Dr_422,General Practice,Hospital_5,City_88,Medium
+423,Dr_423,General Practice,Hospital_37,City_79,Medium
+424,Dr_424,General Practice,Hospital_8,City_38,Low
+425,Dr_425,Neurology,Hospital_42,City_72,Medium
+426,Dr_426,Endocrinology,Hospital_49,City_5,High
+427,Dr_427,General Practice,Hospital_28,City_48,Medium
+428,Dr_428,Endocrinology,Hospital_31,City_90,Medium
+429,Dr_429,Neurology,Hospital_9,City_18,Medium
+430,Dr_430,Neurology,Hospital_29,City_70,Medium
+431,Dr_431,Endocrinology,Hospital_14,City_37,Medium
+432,Dr_432,Cardiology,Hospital_40,City_60,Medium
+433,Dr_433,Oncology,Hospital_41,City_48,Medium
+434,Dr_434,Cardiology,Hospital_22,City_77,Low
+435,Dr_435,Cardiology,Hospital_11,City_28,Medium
+436,Dr_436,Cardiology,Hospital_23,City_69,High
+437,Dr_437,General Practice,Hospital_1,City_77,Medium
+438,Dr_438,Neurology,Hospital_46,City_81,High
+439,Dr_439,Cardiology,Hospital_37,City_40,Medium
+440,Dr_440,Neurology,Hospital_21,City_45,Medium
+441,Dr_441,Endocrinology,Hospital_26,City_96,High
+442,Dr_442,Oncology,Hospital_46,City_62,Medium
+443,Dr_443,Endocrinology,Hospital_36,City_93,High
+444,Dr_444,Endocrinology,Hospital_23,City_58,High
+445,Dr_445,General Practice,Hospital_1,City_67,Medium
+446,Dr_446,Oncology,Hospital_40,City_56,Medium
+447,Dr_447,Endocrinology,Hospital_15,City_40,Low
+448,Dr_448,Endocrinology,Hospital_21,City_98,Medium
+449,Dr_449,Oncology,Hospital_47,City_40,Medium
+450,Dr_450,Oncology,Hospital_9,City_91,Medium
+451,Dr_451,Endocrinology,Hospital_9,City_77,High
+452,Dr_452,Oncology,Hospital_10,City_33,Low
+453,Dr_453,Endocrinology,Hospital_26,City_6,Medium
+454,Dr_454,Endocrinology,Hospital_41,City_88,Medium
+455,Dr_455,General Practice,Hospital_35,City_19,High
+456,Dr_456,Cardiology,Hospital_25,City_80,Medium
+457,Dr_457,Endocrinology,Hospital_26,City_40,Medium
+458,Dr_458,Neurology,Hospital_11,City_92,Low
+459,Dr_459,Cardiology,Hospital_38,City_97,High
+460,Dr_460,Cardiology,Hospital_2,City_59,Medium
+461,Dr_461,Cardiology,Hospital_7,City_59,Low
+462,Dr_462,General Practice,Hospital_18,City_48,Medium
+463,Dr_463,Endocrinology,Hospital_27,City_41,Medium
+464,Dr_464,General Practice,Hospital_34,City_13,High
+465,Dr_465,Endocrinology,Hospital_27,City_45,Low
+466,Dr_466,General Practice,Hospital_17,City_89,High
+467,Dr_467,General Practice,Hospital_43,City_53,Medium
+468,Dr_468,Neurology,Hospital_44,City_42,Medium
+469,Dr_469,General Practice,Hospital_24,City_100,High
+470,Dr_470,Oncology,Hospital_25,City_63,Medium
+471,Dr_471,Neurology,Hospital_7,City_27,High
+472,Dr_472,General Practice,Hospital_6,City_38,High
+473,Dr_473,Cardiology,Hospital_24,City_60,Medium
+474,Dr_474,Oncology,Hospital_33,City_7,Low
+475,Dr_475,Oncology,Hospital_49,City_5,Medium
+476,Dr_476,Oncology,Hospital_29,City_45,Medium
+477,Dr_477,Neurology,Hospital_43,City_58,High
+478,Dr_478,General Practice,Hospital_22,City_31,High
+479,Dr_479,General Practice,Hospital_26,City_23,High
+480,Dr_480,Cardiology,Hospital_28,City_42,High
+481,Dr_481,Cardiology,Hospital_50,City_10,Medium
+482,Dr_482,Oncology,Hospital_21,City_32,Medium
+483,Dr_483,Cardiology,Hospital_49,City_53,Medium
+484,Dr_484,Neurology,Hospital_7,City_30,High
+485,Dr_485,General Practice,Hospital_17,City_39,Medium
+486,Dr_486,Oncology,Hospital_20,City_31,Low
+487,Dr_487,Cardiology,Hospital_41,City_82,High
+488,Dr_488,Neurology,Hospital_49,City_100,Low
+489,Dr_489,Neurology,Hospital_20,City_2,Low
+490,Dr_490,Cardiology,Hospital_22,City_78,High
+491,Dr_491,General Practice,Hospital_28,City_77,Medium
+492,Dr_492,Cardiology,Hospital_40,City_93,Medium
+493,Dr_493,Oncology,Hospital_49,City_12,Medium
+494,Dr_494,Cardiology,Hospital_7,City_39,Medium
+495,Dr_495,Neurology,Hospital_1,City_66,Medium
+496,Dr_496,Cardiology,Hospital_32,City_96,Medium
+497,Dr_497,General Practice,Hospital_13,City_13,Medium
+498,Dr_498,Endocrinology,Hospital_30,City_46,Medium
+499,Dr_499,Cardiology,Hospital_23,City_27,Medium
+500,Dr_500,General Practice,Hospital_19,City_17,Medium
