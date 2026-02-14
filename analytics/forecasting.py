@@ -38,23 +38,27 @@ class PharmaDemandForecasting:
         """
         
         conn = psycopg2.connect(**self.db_config)
-        df = pd.read_sql(query, conn)
+        with psycopg2.connect(**self.db_config) as conn:
+            df = pd.read_sql(query, conn)
         conn.close()
         
         return df
     
     def prepare_features(self, df):
         """Engineer features for modeling"""
-        # Encode categorical variables
-        df_encoded = pd.get_dummies(df, columns=['region', 'market_potential', 'category', 'performance_tier'])
-        
         # Create lag features
-        df_encoded = df_encoded.sort_values(['year', 'quarter'])
+        df_encoded = df.sort_values(['region', 'year', 'quarter', 'month'])
         df_encoded['revenue_lag1'] = df_encoded.groupby(['region'])['total_revenue'].shift(1)
         df_encoded['revenue_lag2'] = df_encoded.groupby(['region'])['total_revenue'].shift(2)
-        
+
         # Drop rows with NaN (from lag features)
         df_encoded = df_encoded.dropna()
+
+        # Encode categorical variables
+        df_encoded = pd.get_dummies(df_encoded, columns=['region', 'market_potential', 'category', 'performance_tier'])
+        
+        
+        
         
         return df_encoded
     
@@ -72,7 +76,14 @@ class PharmaDemandForecasting:
         y = df_model[target]
         
         # Split data
-        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+        split_index = int(len(X) * 0.8)
+
+        X_train = X.iloc[:split_index]
+        X_test = X.iloc[split_index:]
+
+        y_train = y.iloc[:split_index]
+        y_test = y.iloc[split_index:]
+
         
         # Train model
         self.model = RandomForestRegressor(n_estimators=100, max_depth=10, random_state=42)
